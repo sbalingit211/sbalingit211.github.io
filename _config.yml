@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Sunshine Brings Joy
+bio:                'My name is Sunshine Joy and Welcome to my website!'
+description:        "Created on 23 July 2020      Last Edited on 23 July 2020"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -14,12 +14,12 @@ analytics-id:       "default"
 twitter:            default
 facebook:           default
 instagram:          default
-github:             default
+github:             https://www.github.com/sbalingit211
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+location:           Fremont, CA
+phone:              555-555-5555
+email:              sbalingit21@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   /images/bg.jpg
