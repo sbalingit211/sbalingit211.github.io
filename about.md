@@ -1,27 +1,56 @@
----
-layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
----
-## About our Site
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+# Sunshine Balingit
+> Email: sbalingit21@gmail.com
+> Address: Fremont, CA 94536
+> Mobile: (510) 386-5361
+> LinkedIn: [/in/sunshine-joy-balingit](https://www.linkedin.com/in/sunshine-joy-balingit)
+> GitHub: [sbalingit211](https://www.github.com/sbalingit211)
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+## Professional Profile
+- I am a fast learner willing to take initiative and grow using the 3 years of programming practice; 13 years of leadership and work background; and the perseverance and adjustability needed to improve the capabilities and environment for each person and group involved.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+## Skills
+- Programming Languages: Python ● C++ ● Lisp
+- Development Tools: JetBrains ● Anaconda ● Vi
+- Operating Systems: Linux
+- Soft Skills: Organizational ● Leadership ● Communication● Adaptability● Teamwork
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+## Professional Experience
+**Coding Competitions**
+- **OhloneHacks Hackathon**:
+Created a functional layout of a mobile app called Paws Off using React Native to demonstrate how my team’s mobile app would promote students to maintain up-to-date with schoolwork and personal health through gamification.
+- **National Cyber League Competition**:
+Took part in a Capture-the-Flag cybersecurity event and learned to find hidden content hidden through the use of steganography, cryptography, and network logs.
+*Individual Rank: 2067/5355; Team Rank: 221/931*
+- **IEEEXtreme Hackathon**:
+Solved puzzles for every hour within 24 hours using data structures and algorithms.
+*Team Rank: 1102/2534*
+Personal Projects
+- **Inventory Tracker**:
+Mimics the general process of how a company’s inventory may be maintained using an AVL tree in C++.
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+## Professional Development (on-going)
+- Ansible ● C ● Java ● MySQL ● React
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+## Employment History
+#### Lawrence Livermore National Lab, Livermore, CA				June 2020 – Present
+##### High-Performance Computing (HPC) Systems Engineer Intern
+- Build a mini cluster of 5 nodes to analyze and automate the process of installing an Operating System across an entire High Performance Computing (HPC) System.
+- Examine possible bottlenecks for optimization purposes by timing computational speed of a system performing matrix calculations after manipulating C code and process scheduling.
+
+#### California State University East Bay, Hayward, CA				October 2019 – Present
+##### Learning Assistant (Math and Computer Science)
+- Coach students in a way adjusted to best fit their unique learning style on how to approach problems to increase students’ understanding in topics including Calculus, algorithms, and programming.
+
+#### CVS Pharmacy, San Jose, CA						September 2016 – January 2020
+##### Pharmacy Technician, Unlicensed
+- Balanced customer-facing tasks including documenting orders into the appropriate patient’s profile, providing prescriptions in a timely manner, and analyzing and answering issues when questions arise.
+
+#### Proteus Digital Health, Hayward, CA						August 2012 – August 2016
+##### Quality Assurance Lead
+- Led and trained a team beginning at 6 employees, and grew to 30, to meet specific quota weekly while maintaining high quality products and minimal waste.
+- Created a Microsoft Excel spreadsheet that automatically calculates and documents data needed throughout different departments to provide data for predictions on ordering and goals.
+
+## Education
+- Bachelor of Science, Computer Science, California State University East Bay, Fall 2020
+Dean’s List, Tau Sigma National Honor Society, CSUEB GPA: 4.0
