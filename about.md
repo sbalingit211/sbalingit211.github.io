@@ -1,10 +1,7 @@
 
-# Sunshine Balingit
+# Sunshine Joy Balingit
 > Email: sbalingit21@gmail.com
 > Address: Fremont, CA 94536
-> Mobile: (510) 386-5361
-> LinkedIn: [/in/sunshine-joy-balingit](https://www.linkedin.com/in/sunshine-joy-balingit)
-> GitHub: [sbalingit211](https://www.github.com/sbalingit211)
 
 ## Professional Profile
 - I am a fast learner willing to take initiative and grow using the 3 years of programming practice; 13 years of leadership and work background; and the perseverance and adjustability needed to improve the capabilities and environment for each person and group involved.
@@ -25,9 +22,9 @@ Took part in a Capture-the-Flag cybersecurity event and learned to find hidden c
 - **IEEEXtreme Hackathon**:
 Solved puzzles for every hour within 24 hours using data structures and algorithms.
 *Team Rank: 1102/2534*
-Personal Projects
+**Personal Projects**
 - **Inventory Tracker**:
-Mimics the general process of how a company’s inventory may be maintained using an AVL tree in C++.
+- Mimics the general process of how a company’s inventory may be maintained using an AVL tree in C++.
 
 ## Professional Development (on-going)
 - Ansible ● C ● Java ● MySQL ● React
