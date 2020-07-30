@@ -1,6 +1,9 @@
+---
+title: "Resume"
+layout: resume
+---
 
 # Sunshine Joy Balingit
-
 > Email: sbalingit21@gmail.com
 > Address: Fremont, CA 94536
 
@@ -26,7 +29,7 @@ Developed a program that mimicked how a pharmacy could potentially create a pati
 #### High-Performance Computing (HPC) Engineer Academy Intern<span>June 2020 – Present</span>
 Lawrence Livermore National Laboratory, Livermore, CA
 - Effectively managing the following technical tasks with competing priorities and meeting deadlines that are important to project success:
---Working through the software project life cycle with a team to make building a HPC System more feasible by listing and portioning the requirements needed; designing the automated process and implementing the portions with Ansible files and bash scripts; integrating all parts into one script; testing the combined script on one node; and deploying it on an entire cluster.
+-- Working through the software project life cycle with a team to make building a HPC System more feasible by listing and portioning the requirements needed; designing the automated process and implementing the portions with Ansible files and bash scripts; integrating all parts into one script; testing the combined script on one node; and deploying it on an entire cluster.
 -- Creating and executing C programs within a Linux environment to examine possible bottlenecks for optimization purposes by timing computational speed of a system, manipulating process scheduling, and monitoring frequency and performance.
 
 #### Learning Assistant (Math and Computer Science)<span>October 2019 – Present</span>
@@ -45,3 +48,6 @@ Proteus Digital Health, Hayward, CA
 ## Education
 - Bachelor of Science, Computer Science, California State University East Bay, Fall 2020
 Dean’s List, Tau Sigma National Honor Society, CSUEB GPA: 4.0
+
+## References
+Available on request
